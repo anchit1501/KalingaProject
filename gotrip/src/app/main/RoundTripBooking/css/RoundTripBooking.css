@@ -1,0 +1,14 @@
+@media screen and (min-width: 1030px){
+    .flightDetail1{
+        margin-right: 15%;
+        margin-left: 15%;
+    }
+}
+#bookingsumform1{
+    padding: 0px !important;
+}
+#bookingsumfloat1{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}

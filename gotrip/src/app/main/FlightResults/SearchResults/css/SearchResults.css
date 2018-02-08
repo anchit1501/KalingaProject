@@ -1,0 +1,57 @@
+#card_results,
+#delete_margin{
+    margin: 0;
+}
+#flight_details{
+    margin: 0;
+    cursor: pointer;
+}
+#result{
+    padding: 0;
+}
+#airplane_code{
+    font-size: 12px !important;
+    color: grey;
+}
+#refund{
+    font-size: 12px !important;
+    color: grey;
+}
+#stops{
+    font-size: 12px !important;
+    color: grey;
+}
+#airport_code{
+    font-size: 12px !important;
+    color: grey;
+}
+#cancel_list{
+    padding: 10px;
+    font-size: 12px !important;
+    color: grey;
+}
+#cancel_price{
+    margin: 0;
+    font-size: 12px !important;
+    color: grey;
+}
+#icon_margin{
+    margin: 14px 0px 0px 0px;
+}
+#dur_margin{
+    margin: 5px 0px 0px 0px;
+    font-size: 12px !important;
+    color: grey;
+}
+#baggage_rule{
+    font-size: 12px !important;
+    color: grey;
+}
+#flight_details_btn{
+    margin: 0;
+    padding: 0 !important;
+}
+#fli_det_arrow{
+    margin: 0;
+    padding: 0px 0px 2px 0px !important;
+}

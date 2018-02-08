@@ -1,0 +1,84 @@
+.nav_bar{
+    padding: 8px;
+}
+#swap_icon{
+    padding: 20px;
+    margin: 0;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+}
+#swap_icon_main{
+    cursor: pointer;
+    font-size: 40px !important;
+    transform: rotate(90deg);
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+}
+#swap_icon_main:hover{
+    color: orange;
+}
+#addextra{
+    cursor: pointer;
+}
+#search_button{
+    padding: 10% 0% 10% 0%;
+}
+#search_btn{
+    width: 100%;
+}
+#swap_icon_main{
+      transform: rotate(90deg);
+      
+    }
+@media screen and (max-width: 450px){
+    #swap_icon{
+      height: 5px;
+    }
+    #swap_icon_main{
+      transform: rotate(180deg);
+    }
+}
+@media screen and (max-width: 600px){
+    #discounts{
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+}
+/*main{
+    flex: 1 0 auto;
+}*/
+
+#offers_discounts{
+    padding: 0px 0px 0px 0px;
+}
+#discounts{
+    border-radius: 20px;
+}
+#button{
+    margin-top: 5%;
+}
+@media screen and (max-width: 1030px){
+    #button{
+        margin-top: 8%;
+    }
+}
+@media screen and (max-width: 480px){
+    #button{
+        margin-top: 5%;
+    }
+}
+#arrows{
+    padding: 0px !important;
+    cursor: pointer;
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+}

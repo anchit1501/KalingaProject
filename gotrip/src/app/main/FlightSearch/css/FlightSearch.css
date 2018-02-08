@@ -1,0 +1,18 @@
+#searchbar_main{
+    background: url('../../../assets/images/background.png') no-repeat bottom;
+    padding: 8px 8px 30px 8px; 
+}
+@media screen and (max-width: 450px){
+    #test1{
+        padding: 0 0 0 0;
+    }
+    #test2{
+        padding: 0 0 0 0;
+    }
+    #test3{
+        padding: 0 0 0 0;
+    }
+    #form{
+        padding: 0 0 0 0;
+    }
+}

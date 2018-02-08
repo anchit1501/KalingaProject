@@ -1,0 +1,26 @@
+
+.login-body{
+    background: url('../../../assets/images/background1.png') no-repeat top;
+    background-color: #67D3FF;
+    height: 100vh;
+}
+#gotrip{
+     font-family: 'Slabo 27px', serif;
+     color: white;
+     font-size: 700%;
+}
+.btn btn-default{
+    border-radius: 100%;
+}
+@media screen and (max-width: 450px){
+    #login-body{
+    padding-top: 0;
+    
+}
+}
+#login-card{
+    background-color: rgba(255, 255, 255);
+}
+.custom_input{
+    background: white;
+}

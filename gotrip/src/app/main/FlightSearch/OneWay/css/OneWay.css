@@ -1,0 +1,32 @@
+#panel_main{
+    margin: 0;
+}
+#search_button{
+    padding: 2% 0% 2% 0% !important;
+}
+#agegroup{
+    font-size: 11px !important;
+}
+.row .col{
+    padding: 0 0.40rem !important;
+}
+@media screen and (max-width: 450px){
+    #search_button{
+        padding: 10% 0% 10% 0% !important;
+    }
+}
+input::-webkit-input-placeholder {
+color: grey !important;
+}
+ 
+input:-moz-placeholder { /* Firefox 18- */
+color: grey !important;  
+}
+ 
+input::-moz-placeholder {  /* Firefox 19+ */
+color: grey !important;  
+}
+ 
+input:-ms-input-placeholder {  
+color: grey !important;  
+}

@@ -1,0 +1,35 @@
+#ul_search{
+    margin: 0;
+}
+#onewayresultpage{
+    margin: 0;
+}
+#remove_padding{
+    padding: 0px 0px 0px 0px !important;
+}
+#row2{
+    margin: 0;
+}
+#p_sort{
+    margin: 0;
+}
+#just_add_pad{
+    margin-bottom: 22px;
+}
+#sort_block {
+    margin: 0 1px 0 1px;
+    background: #e0e0e0;
+    border-radius: 2px;
+    cursor: pointer;
+}
+@media screen and (min-width: 1375px){
+    .OneWayResult{
+        margin-left: 13%;
+        margin-right: 13%;
+    }
+}
+#filtersoneway{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
